@@ -1,21 +1,7 @@
 
-<!--
-**actuallysoham/actuallysoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hi! I'm Tanvi, a senior undergraduate at Ashoka University.
-
+Hi! I'm Tanvi, another software engineer alien in this universe. 
+- 🔭 I’m always interested in the intersection of people and technology and am looking for opportunities that allow me to do the same!
 - 📫 Just drop me an email at <tanvee1912@gmail.com>
 - 😄 Pronouns: she/her
 
@@ -38,5 +24,3 @@ Hi! I'm Tanvi, a senior undergraduate at Ashoka University.
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviroy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
