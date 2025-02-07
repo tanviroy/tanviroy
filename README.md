@@ -1,6 +1,6 @@
 
 
-Hi! I'm Tanvi, another software engineer alien in this universe. 
+Hi! I'm Tanvi.
 - 🔭 I’m always interested in the intersection of people and technology and am looking for opportunities that allow me to do the same!
 - 📫 Just drop me an email at <tanvee1912@gmail.com>
 - 😄 Pronouns: she/her
